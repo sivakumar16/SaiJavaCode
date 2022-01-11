@@ -1,5 +1,8 @@
-<h1> Hello Dear Students !! Welcome to DevOps Project-2 !! </h1>
-<h2> By Mr. Sai from Saidemy </h2>
-<h3> It's time to start devops project-2!! </h3>
-<h4> finally devops classes completed!! </h4>
-<h5> lets serch jobs!! </h5>
+Have 4.4 years of industry experience in Application Packaging, Repackaging, Virtualization, Migration and app        
+         Deploying with Power shell and Wise scripting. Also has an experience in the following: 
+
+	Expertise in Install Shield, Admin studio for application Re-packaging.
+	Expertise in creating MSI & Windows Installer Technology.
+	Individual experience in MSI / industry standard installation and deployment, design, design review and document development of Application packaging.
+Includes Repackaging, Troubleshooting, and Testing across various platforms 
+
